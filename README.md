@@ -9,7 +9,8 @@ Focused on distributed systems, cloud infrastructure, and developer platforms.
 - Care deeply about reliability, cost efficiency, and system simplicity
 
 ## Tech Stack
-- Languages: Go, Rust, Python, React
+- Languages: Go, Rust, Python, TypeScript
+- Frontend: React, Vite, Tailwind CSS
 - Infra: Kubernetes, AWS, Terraform, Helm
 - Data: MySQL, PostgreSQL, Redis, Kafka
 
