@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ken 👋
 
-<!--
-**kenelite/kenelite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure / Platform Engineer  
+Focused on distributed systems, cloud infrastructure, and developer platforms.
 
-Here are some ideas to get you started:
+## What I Do
+- Build and operate large-scale cloud infrastructure (Kubernetes, AWS, multi-region)
+- Design internal platforms: config center, database services, FinOps, CMDB
+- Care deeply about reliability, cost efficiency, and system simplicity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Go, Rust, Python, React
+- Infra: Kubernetes, AWS, Terraform, Helm
+- Data: MySQL, PostgreSQL, Redis, Kafka
+
+## Interests
+- Distributed systems & storage engines
+- Platform engineering & internal tooling
+- Infra × AI / Agentic systems
+
+## Contact
+- GitHub: https://github.com/kenelite
+- Email: kenelite.sg@email.com
