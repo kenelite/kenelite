@@ -1,7 +1,7 @@
 # Hi, I'm Ken 👋
 
-Infrastructure / Platform Engineer  
-Focused on distributed systems, cloud infrastructure, and developer platforms.
+Full-stack / Infrastructure / Platform Engineer  
+Focused on distributed systems, cloud infrastructure, ai infrastructure, and developer platforms.
 
 ## What I Do
 - Build and operate large-scale cloud infrastructure (Kubernetes, AWS, multi-region)
