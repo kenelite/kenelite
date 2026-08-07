@@ -11,6 +11,7 @@ Focused on distributed systems, cloud infrastructure, ai infrastructure, and dev
 ## Tech Stack
 - Languages: Go, Rust, Python, TypeScript
 - Frontend: React, Vite, Tailwind CSS
+- Cross-platform: Flutter, Tauri
 - Infra: Kubernetes, AWS, Terraform, Helm
 - Data: MySQL, PostgreSQL, Redis, Kafka
 
