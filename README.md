@@ -20,7 +20,17 @@ Focused on distributed systems, cloud infrastructure, ai infrastructure, and dev
 - Platform engineering & internal tooling
 - Infra × AI / Agentic systems
 
+
+
+## Products
+- [LocalEngine](https://le.kenelite.com/): LocalEngine runs powerful language models entirely on your deivces
+
+- [PrivyMermaid](https://diagram.kenelite.com/): Discover professional templates, edit diagrams online, and continue across macOS, Windows, Linux, iPhone, Android and your browser.
+
+- [PrivyTranslate](https://pt.kenelite.com/): Private local-first translation for macOS, Windows, iPhone, iPad and Chrome. Android WIP. 
+
+
+
 ## Contact
 - Website: https://www.kenelite.com
-- GitHub: https://github.com/kenelite
 - Email: kenelite.sg@email.com
